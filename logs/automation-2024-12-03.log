@@ -1,0 +1,55 @@
+20:08:39.017 [main] INFO  testCases.TC003_LoginDDT - Finished TC003_LoginDDt
+20:08:39.035 [main] INFO  testCases.TC003_LoginDDT - Starting TC003_LoginDDT
+20:08:50.734 [main] INFO  testCases.TC003_LoginDDT - Finished TC003_LoginDDt
+20:11:21.009 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mdyea\OneDrive\Desktop\Eclipse\Opencartv122\master.xml"
+20:11:21.289 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mdyea\OneDrive\Desktop\Eclipse\Opencartv122\master.xml
+
+20:11:24.639 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001 AccountRegistrationTest
+20:11:24.670 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001 AccountRegistrationTest
+20:11:24.786 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - CLiked on Myaccount link
+20:11:24.813 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - CLiked on Myaccount link
+20:11:25.533 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link
+20:11:25.535 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details 
+20:11:25.676 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link
+20:11:25.677 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - providing customer details 
+20:11:28.987 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+20:11:29.035 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001 AccountRegistrationTest
+20:11:29.246 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+20:11:29.295 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001 AccountRegistrationTest
+20:22:49.111 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mdyea\OneDrive\Desktop\Eclipse\Opencartv122\grouping.xml"
+20:22:49.389 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mdyea\OneDrive\Desktop\Eclipse\Opencartv122\grouping.xml
+
+20:22:52.306 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001 AccountRegistrationTest
+20:22:52.961 [main] INFO  testCases.TC001_AccountRegistrationTest - CLiked on Myaccount link
+20:22:53.726 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link
+20:22:53.727 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details 
+20:22:56.999 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+20:22:57.032 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001 AccountRegistrationTest
+20:23:00.019 [main] INFO  testCases.TC002_AccountLoginTest - Starting TC_002 Login Test
+20:23:02.704 [main] INFO  testCases.TC002_AccountLoginTest - Finished TC_002 LoginTest
+20:39:08.253 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mdyea\OneDrive\Desktop\Eclipse\Opencartv122\grouping.xml"
+20:42:10.242 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mdyea\OneDrive\Desktop\Eclipse\Opencartv122\grouping.xml"
+20:42:24.282 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mdyea\OneDrive\Desktop\Eclipse\Opencartv122\grouping.xml"
+20:42:24.596 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mdyea\OneDrive\Desktop\Eclipse\Opencartv122\grouping.xml
+
+20:42:33.417 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001 AccountRegistrationTest
+20:42:33.903 [main] INFO  testCases.TC001_AccountRegistrationTest - CLiked on Myaccount link
+20:42:34.801 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link
+20:42:34.802 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details 
+20:42:38.409 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+20:42:38.451 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001 AccountRegistrationTest
+20:42:40.845 [main] INFO  testCases.TC002_AccountLoginTest - Starting TC_002 Login Test
+20:46:50.903 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mdyea\OneDrive\Desktop\Eclipse\Opencartv122\grouping.xml"
+20:46:51.200 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mdyea\OneDrive\Desktop\Eclipse\Opencartv122\grouping.xml
+
+20:46:54.407 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001 AccountRegistrationTest
+20:46:54.546 [main] INFO  testCases.TC001_AccountRegistrationTest - CLiked on Myaccount link
+20:46:55.170 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link
+20:46:55.172 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details 
+20:46:58.461 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+20:46:58.525 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001 AccountRegistrationTest
+20:47:01.672 [main] INFO  testCases.TC002_AccountLoginTest - Starting TC_002 Login Test

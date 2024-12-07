@@ -1,0 +1,7 @@
+07:11:14.028 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - CLiked on Myaccount link
+07:11:15.008 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on register link
+07:11:15.013 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details 
+07:11:19.388 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+07:11:19.490 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001 AccountRegistrationTest
+07:11:29.745 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - Starting TC_002 Login Test
+07:11:32.805 [TestNG-tests-1] INFO  testCases.TC002_AccountLoginTest - Finished TC_002 LoginTest
